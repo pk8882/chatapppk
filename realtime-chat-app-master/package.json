@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon server",
     "server": "node server",
-    "start":"node src/server.js"
+    "start":"node server.js"
 
   },
   "keywords": [],
